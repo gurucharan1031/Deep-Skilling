@@ -66,10 +66,3 @@ class FactoryTest
         d3.open();
     }
 }
-
-
-OUTPUT:
-
-Word Document Opened
-PDF Document Opened
-Excel Document Opened
