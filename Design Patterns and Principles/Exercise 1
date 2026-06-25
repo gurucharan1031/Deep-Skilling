@@ -46,9 +46,3 @@ class Logger
         System.out.println(msg);
     }
 }
-
-
-OUTPUT:
-First Message
-Second Message
-Same Object
